@@ -1,0 +1,2 @@
+qrcode[pil,svg]>=7.4
+Pillow>=9.5
